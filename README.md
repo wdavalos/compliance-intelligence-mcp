@@ -1,6 +1,7 @@
 # Compliance Intelligence MCP Server
 
-> **[View on Apify](https://apify.com)** | **[Use on Apify Store](https://apify.com)**
+> **[View on Apify](https://apify.com/red.cars/compliance-intelligence-mcp)** | **[Use on Apify Store](https://apify.com/red.cars/compliance-intelligence-mcp)**
+> [ScraperFleet data page](https://scraperfleet.com/actors/compliance-intelligence-mcp/)
 
 SEC EDGAR compliance intelligence for AI agents — no API key needed, direct MCP integration for AML, KYC, and sanctions screening workflows.
 
